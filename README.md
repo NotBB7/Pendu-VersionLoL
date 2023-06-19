@@ -25,9 +25,9 @@ Les outils suivants 🛠 ont été utilisés dans la construction du projet :
         <td><a href="https://www.javascript.com/">JS</a></td>
     </tr>
     <tr>
-        <td>5.2</td>
-        <td>2.1</td>
-        <td>1.0</td>
+        <td>5</td>
+        <td>3</td>
+        <td>1</td>
     </tr>
 </table>
 
