@@ -1,0 +1,8 @@
+{
+    "Assasin": ["Akali", "Ekko", "Evelynn", "Fizz", "Kassadin", "Katarina", "Kha'Zix", "Leblanc", "Master Yi", "Nidalee", "Nocturne", "Qiyana", "Rengar", "Shaco", "Talon", "Viego", "Zed"],
+    "Combattant": ["Aatrox", "Bel'Veth", "Camille", "Darius", "Diana", "Fiora", "Gankplank", "Garen", "Gnar", "Gragas", "Gwen", "Hecarim", "Illaoi", "Irelia", "jax", "Jayce", "Kayle", "Kayn", "Kled", "Lee Sin", "Lillia", "Mordekaiser", "Nasus", "Nilah", "Olaf", "Pantheon", "Rek'Sai", "Renekton", "Riven", "Rumble", "Sett", "Shyvana", "Skarner", "Trundle", "Tryndamere", "Udyr", "Urgot", "Vi", "Volibear", "Wukong", "Xin Zhao", "Yasuo", "Yone", "Yorick"],
+    "Mage": ["Ahri", "Anivia", "Annie", "Aurelion Sol", "Azir", "Brand", "Cassiopeia", "Elise", "Fiddlesticks", "Heimerdinger", "Karthus", "Karma", "Kennen", "Lissandra", "Lux", "Malzahar", "Morgana", "Neeko", "Orianna", "Ryze", "Seraphine", "Swain", "Sylas", "Syndra", "Taliyah", "Twisted Fate", "Veigo", "Vel'Koz", "Vex", "Viktor", "Vladimir", "Xerath", "Ziggs", "Zoe", "Zyra"],
+    "Tireur": ["Akshan", "Aphelios", "Ashe", "Caitlyn", "Corki", "Draven", "Ezreal", "Graves", "Jhin", "Jinx", "Kai'Sa", "Kalista", "Kindred", "Kog'Maw", "Lucian", "Miss Fortune", "Quinn", "Samira", "Senna", "Sivir", "Teemo", "Tristana", "Twitch", "Varus", "Vayne", "Xayah", "Zeri"],
+    "Support": ["Alistar", "Bard", "Blitzcrank", "Braum", "Ivern", "Janna", "Karma", "Lulu", "Nami", "Pyke", "Rakan", "Renata Glasc", "Sona", "Soraka", "Taric", "Thresh", "Yuumi", "Zilean"],
+    "Tank": ["Amumu", "Cho'Gath", "Dr. Mundo", "Galio", "Jarvan IV", "K'Sante", "Leona", "Malphite", "Maokai", "Nautilus", "Nunu & Willump", "Ornn", "Poppy", "Rammus", "Rell", "Sejuani", "Shen", "Singed", "Sion", "Tahm Kench", "Zac"]
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Une version spéciale du célèbre jeu du pendu réalisée pour League of Legends">
+    <link rel="stylesheet" href="style.css">
+    <title>Trouve le champion - League of Legends</title>
+</head>
+<body>
+    <div class="headline">
+        <p>Trouve le champion !</p>
+        <p>Fait par NotBB</p>
+    </div>
+    <div class="container">
+        <div class="game-content">
+            <div class="drawing">
+                <div class="hang">
+                    <div class="base"></div>
+                    <div class="pillar"></div>
+                    <div class="carrier"></div>
+                    <div class="rope"></div>
+                </div>
+                <div class="human">
+                    <div class="head"></div>
+                    <div class="hands">
+                        <div class="right-hand"></div>
+                        <div class="left-hand"></div>
+                    </div>
+                    <div class="body"></div>
+                    <div class="legs"></div>
+                </div>
+            </div>
+            <div class="game-info">
+                <div class="class">
+                    <p>Classe du champion: <span></span></p>
+                </div>
+                <div class="letters"></div>
+            </div>
+        </div>
+        <div class="lose-alert">
+            <p>
+                <span>DEFAITE</span>
+                Vous voulez réessayer ?
+            </p>
+            <button>Réessayer</button>
+        </div>
+        <div class="win-alert">
+            <p>
+                <span>VICTOIRE</span>
+                Vous voulez rejouer ?
+            </p>
+            <button>Rejouer</button>
+        </div>
+    </div>
+    <div class="attempts">
+        <p>Tentatives</p>
+        <div class="spans">
+        </div>
+    </div>
+    <div class="guessed">
+    </div>
+
+    <!-- Audio -->
+    <audio id="correct" src="Assets/sound/correct.mp3"></audio>
+    <audio id="wrong" src="Assets/sound/wrong.mp3"></audio>
+    <audio id="win" src="Assets/sound/win.mp3"></audio>
+    <audio id="lose" src="Assets/sound/lose.mp3"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
